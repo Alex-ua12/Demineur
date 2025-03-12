@@ -6,6 +6,6 @@ Il s'agit d'un petit projet de fin de période pour mon option : développement 
 
 [Extrait de wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9mineur_(genre_de_jeu_vid%C3%A9o))
 
-## Fonctionnalités
+## Fonctionnalités :
 
 # En cours de développement
