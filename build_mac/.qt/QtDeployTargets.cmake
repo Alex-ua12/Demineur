@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_demineur_FILE /Users/alexgelineau/Demineur/build_mac/demineur)
+set(__QT_DEPLOY_TARGET_demineur_TYPE EXECUTABLE)
