@@ -1,0 +1,4 @@
+/home/ageline/Demineur/build_linux/CMakeFiles/demineur.dir
+/home/ageline/Demineur/build_linux/CMakeFiles/edit_cache.dir
+/home/ageline/Demineur/build_linux/CMakeFiles/rebuild_cache.dir
+/home/ageline/Demineur/build_linux/CMakeFiles/demineur_autogen.dir

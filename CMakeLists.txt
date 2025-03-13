@@ -10,7 +10,6 @@ find_package(Qt6 COMPONENTS Widgets REQUIRED)
 add_executable(${PROJECT_NAME}
     main.cc
     mainwindow.hh
-    mainwindow.cc
-)
+    mainwindow.cc)
 
 target_link_libraries(${PROJECT_NAME} PRIVATE Qt6::Widgets)
